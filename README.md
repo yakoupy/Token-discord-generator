@@ -14,3 +14,6 @@ This Python script is designed to randomly generate Discord tokens and test them
 4. **Attention to Legal Use**: It's essential to emphasize that using this script to access Discord accounts without authorization is against Discord's terms of service and may be illegal. This code is provided for educational and demonstration purposes only.
 
 In summary, this script allows for the exploration of randomly generated Discord token validity, providing a handy tool for managing access to Discord accounts while highlighting the importance of ethics and adherence to online platform usage policies. 🤖🔑
+
+**screen**:
+![image](https://github.com/yakoupy/Token-discord-generator/assets/143798854/d6223492-ea4c-4d41-9dd8-f696a3768679)
